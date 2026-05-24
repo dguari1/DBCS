@@ -10,7 +10,26 @@ Authors
 Diego L. Guarín, Florian Lange, Martin Reich, Gabriela Acevedo, Josh K. Wong, and David E. Vaillancourt.
 
 
-All files contain a different result presented in the paper.
+All files contain different result presented in the paper, including:
+
+### DBCS increases with clinical bradykinesia severity
+- [ComparisionClinicalScore.ipynb](ComparisionClinicalScore.ipynb)
+
+### DBCS detects dopaminergic treatment effects
+- [ResponseLevodopa.ipynb](ResponseLevodopa.ipynb)
+
+### DBCS detects motor improvement following deep brain stimulation
+- [ResponseDBS.ipynb](ResponseDBS.ipynb)
+
+### DBCS tracks longitudinal progression
+- [longitudinalProgression.ipynb](longitudinalProgression.ipynb)
+
+### DBCS is associated with contralateral dopaminergic integrity
+- [DATResults.ipynb](DATResults.ipynb)
+
+### DBCS is associated with free water measures in the posterior substantia nigra
+- [FWResults.ipynb](FWResults.ipynb)
+
 
 ## License
 
